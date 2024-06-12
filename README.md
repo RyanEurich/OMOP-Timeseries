@@ -1,5 +1,7 @@
 # Time Series Forecast for hospital occupation by patients
 
+#### DeepNote File: https://deepnote.com/workspace/datathon24-88ca-6e8ee1c2-db72-48e9-99b5-00f6e71c1ee7/project/Ryan-Sungmo-Troy-Eurichs-Untitled-project-32fd6ad5-d688-4e0a-9fc6-55e2a5bea8cc/notebook/Notebook%205-acfe9d995958496c84926fadce198c97
+
 ## Data | Context
 This data represents the total number of patients in each hospital section at each time. It is broken down by year, month, day, and hour. It was pulled from a modified UCI Health report from their medical center in Orange, mapped to the standard OMOP data model. The years are shifted but the data examined was over a 10 year timeframe. There were no null or missing time values but other id's and non time information were dropped.
 
